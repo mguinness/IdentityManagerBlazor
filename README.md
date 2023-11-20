@@ -1,5 +1,7 @@
 # Identity Manager Blazor
-Identity management system for [ASP.NET Core Identity](https://github.com/aspnet/AspNetCore/tree/master/src/Identity) for use with .NET Core 7 and Bootstrap 5 and developed with [Blazor WebAssembly](https://learn.microsoft.com/en-us/aspnet/core/blazor/#blazor-webassembly).
+Identity management system for [ASP.NET Core Identity](https://github.com/aspnet/AspNetCore/tree/master/src/Identity) for use with .NET Core 7 and Bootstrap 5 and developed with [Blazor WebAssembly](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly).
+
+**This GitHub project is deprecated.** Ongoing development can be found at <https://github.com/mguinness/IdentityManagerBlazorUnited>.
 
 ## Introduction
 When creating a new ASP.NET Core project you have the option to change the authentication to individual user accounts that adds a reference to [Microsoft.AspNetCore.Identity.UI](https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.UI/) to include the identity system into your website. This includes registration, login and several pages related to user account self management like 2FA and password reset.
